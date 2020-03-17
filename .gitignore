@@ -1,1 +1,3 @@
 arquivos/**
+!arquivos/asset1.png
+!arquivos/asset2.png
